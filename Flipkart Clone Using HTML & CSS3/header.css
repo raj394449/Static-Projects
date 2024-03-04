@@ -1,0 +1,120 @@
+/* For Header */
+
+.navbar {
+    height: 12vh;
+    background-color: blue ;
+    color: white;
+    display: flex;
+    align-items: center;
+    /* margin: 0 2px 0 2px; */
+}
+
+/* Box 1 */
+.logo {
+    margin: 0px 20px;
+    padding: 19px 36px;
+}
+
+.logo img:hover {
+    /* border: 2px solid white; */
+    cursor: pointer;
+}
+
+/* Box 2 */
+.search-navbar {
+    display: flex;
+    align-items: center;
+    padding: 0 42px;
+}
+
+.search-box {
+    border: 2px solid white;
+    border-radius: 3px;
+}
+
+.search-box i {
+    background-color: white transparent;
+}
+
+.search-box input {
+    width: 250px;
+    height: 25px;
+    padding: 0 4px;
+    border: transparent;
+}
+
+.search-box i:hover {
+    cursor: pointer;
+}
+
+/* Box 3 */
+.become-navbar {
+    display: flex;
+    align-items: center;
+    padding: 0 42px;
+}
+
+.become-navbar p {
+    padding: 0 6px;
+}
+
+.become-navbar p:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.become-navbar i:hover {
+    cursor: pointer;
+}
+
+/* Box 4 */
+.sign-navbar {
+    display: flex;
+    align-items: center;
+    padding: 0 42px;
+}
+
+.sign-navbar p {
+    padding: 0 8px;
+}
+
+.sign-navbar p:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.sign-navbar i:hover {
+    cursor: pointer;
+}
+
+/* Box 5 */
+.more-navbar {
+    display: flex;
+    align-items: center;
+    padding: 0 42px;
+}
+
+.more-navbar:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Box 6 */
+.cart-navbar {
+    display: flex;
+    align-items: center;
+    padding: 0 42px;
+}
+
+.cart-navbar p {
+    padding: 0 8px;
+}
+
+.cart-navbar p:hover {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.cart-navbar i:hover {
+    cursor: pointer;
+}

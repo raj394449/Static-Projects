@@ -1,0 +1,100 @@
+/* Footer Section */
+footer {
+    height: 8vh;
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+/* First Box */
+.become-footer {
+    display: flex;
+    align-items: center;
+    padding: 0 22px 0 60px;
+    /* font-weight: bold; */
+}
+
+.become-footer p {
+    padding: 0 8px;
+}
+
+.become-footer:hover {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* Second Box */
+.ads {
+    display: flex;
+    align-items: center;
+    padding: 0 22px;
+    /* font-weight: bold; */
+}
+
+.ads p {
+    padding: 0 8px;
+}
+
+.ads p:hover {
+    cursor: pointer;
+    font-weight:bold;
+}
+
+/* Third Box */
+.gift-cards {
+    display: flex;
+    align-items: center;
+    padding: 0 22px;
+}
+
+.gift-cards p {
+    padding: 0 8px;
+}
+
+.gift-cards p:hover {
+    cursor: pointer;
+    font-weight:bold;
+}
+
+/* Box Four */
+.help-center {
+    display: flex;
+    align-items: center;
+    padding: 0 22px;
+    /* font-weight: bold; */
+}
+
+.help-center p {
+    padding: 0 8px;
+}
+
+.help-center p:hover {
+    cursor: pointer;
+    font-weight:bold;
+}
+
+/* Box Five */
+.copyright {
+    display: flex;
+    align-items: center;
+    padding: 0 22px;
+    /* font-weight: bold; */
+}
+
+.copyright p {
+    padding: 0 8px;
+}
+
+.copyright p:hover {
+    cursor: pointer;
+    font-weight:bold;
+}
+
+/* Box Six */
+.image{
+    padding: 0 22px;
+}
+.image i {
+    padding: 0 7px;
+}
